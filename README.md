@@ -1,133 +1,108 @@
- 👋 Hi, I'm Annapoorna 👋
+# Hi 👋, I'm Annapoorna
 
-### Electronics & Communication Engineering Student | Aspiring Software Developer | AI Enthusiast
+### Electronics & Communication Engineering Student | Developer from India 🇮🇳
 
-I'm an Electronics & Communication Engineering student passionate about technology, problem-solving, and building practical projects that combine engineering with software.
+I'm an E&C engineering student interested in software development, Artificial Intelligence, and building practical engineering projects.
 
-I enjoy exploring new technologies, developing applications, and learning by building real-world projects.
-
-- 🎓 Studying Electronics & Communication Engineering
-- 💻 Exploring software development and web technologies
-- 🤖 Interested in Artificial Intelligence and Machine Learning
-- 📡 Exploring digital communication, signal processing, and satellite tracking
-- 🚀 Building projects to strengthen my technical skills
-- 🌱 Continuously learning, experimenting, and improving
-
----
-
-## 🛠️ Languages & Technologies
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Engineering & Simulation
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🎓 I'm studying Electronics & Communication Engineering.
+- 🌱 I'm learning Python, C, web development, and AI technologies.
+- 👨‍💻 I'm building projects in AI, software development, and engineering simulations.
+- 📡 I'm interested in digital communications, signal processing, and satellite tracking.
+- 🤖 I'm exploring AI-powered applications and multi-agent systems.
+- 🚀 I'm working toward becoming a better developer through hands-on projects.
+- 💻 All my projects are available on [GitHub](https://github.com/annapoorna147?tab=repositories).
 
 ---
 
-## 🚀 Featured Projects
+## 👩‍💻 My Projects
 
-### 📡 HAMTRACK-AI
-An amateur radio signal laboratory for exploring signal spectra, satellite tracking, Doppler shift, and radio communication concepts through interactive simulations.
-
-**Technologies:** Python, Streamlit, NumPy, Pandas, Plotly, Skyfield
-
-[View Repository](https://github.com/annapoorna147/HAMTRACK-AI)
-
-### 🤖 Multi-Agent Research Assistant
-An AI-powered research application designed to coordinate specialized agents for research, source extraction, fact-checking, analysis, and synthesis.
-
-**Technologies:** Python, FastAPI, React, Google Gemini
-
-[Explore My Repositories](https://github.com/annapoorna147?tab=repositories)
-
-### 🧊 RUBIX — Rubik's Cube Solver
-An ongoing project focused on cube-state validation, move notation, solver logic, and developing a step-by-step Rubik's Cube learning experience.
-
-**Technologies:** JavaScript, C, Python, HTML, CSS
-
-[Explore My Repositories](https://github.com/annapoorna147?tab=repositories)
-
-### 🧠 AI Quiz Generator
-An AI-powered application that generates quizzes and provides timed assessments and performance tracking.
-
-**Technologies:** Python, Streamlit, Google Gemini API
-
-[Explore My Repositories](https://github.com/annapoorna147?tab=repositories)
-
-### 📚 Personal Knowledge Base
-A project exploring document processing, text extraction, text chunking, and retrieval-based access to information from personal documents.
-
-**Technologies:** Python, NLP, Retrieval-Augmented Generation (RAG)
-
-[Explore My Repositories](https://github.com/annapoorna147?tab=repositories)
+- 📡 **HAMTRACK-AI** — [View project](https://github.com/annapoorna147/HAMTRACK-AI)
+- 🧊 **RUBIX — Rubik's Cube Solver** — [Explore repositories](https://github.com/annapoorna147?tab=repositories)
+- 🤖 **Multi-Agent Research Assistant** — [Explore repositories](https://github.com/annapoorna147?tab=repositories)
+- 🧠 **AI Quiz Generator** — [Explore repositories](https://github.com/annapoorna147?tab=repositories)
+- 📚 **Personal Knowledge Base** — [Explore repositories](https://github.com/annapoorna147?tab=repositories)
 
 ---
 
-## 📡 Electronics & Communication Engineering
+## 🛠️ Languages and Tools
 
-I'm interested in applying programming and computational tools to engineering problems, including:
-
-- Digital communication systems
-- Analog and digital modulation
-- Signal processing and frequency analysis
-- MATLAB-based engineering simulations
-- Satellite tracking and Doppler shift
-- Embedded systems and intelligent engineering applications
-
----
-
-## 📚 Currently Learning
-
-- Python and C programming
-- Data Structures & Algorithms
-- Web development with HTML, CSS, and JavaScript
-- AI/ML application development
-- Software engineering and Git workflows
-- Open-source contribution practices
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=annapoorna147&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=annapoorna147&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-## 🎯 My Goals
-
-- Build useful, real-world engineering and software projects
-- Strengthen my programming and problem-solving skills
-- Explore AI applications that solve practical problems
-- Contribute to open-source projects
-- Grow as an engineer by learning and building consistently
-
----
-
-## 🤝 Connect With Me
-
-- **GitHub:** [@annapoorna147](https://github.com/annapoorna147)
-- **Repositories:** [Explore my projects](https://github.com/annapoorna147?tab=repositories)
+<p align="left">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://en.cppreference.com/w/c/language" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://cdn.simpleicons.org/mathworks/0076A8" alt="MATLAB" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="45"/>
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=streamlit" alt="Streamlit" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="45"/>
+  </a>
+</p>
 
 ---
 
-### 💡 Learn. Build. Experiment. Repeat.
+## 📊 GitHub Stats
 
-*Building my skills one project at a time.*
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=annapoorna147&show_icons=true&theme=tokyonight&hide_border=true" alt="Annapoorna's GitHub Stats"/>
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annapoorna147&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=annapoorna147&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Strengthen my programming fundamentals.
+- Build useful AI and software projects.
+- Improve my problem-solving skills.
+- Explore open-source development and GSoC.
+- Apply programming to Electronics & Communication Engineering problems.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/annapoorna147">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
+
+*Learn • Build • Experiment • Repeat*
