@@ -1,4 +1,4 @@
-## Hi there 👋# Hi, I'm Annapoorna 👋
+ 👋 Hi, I'm Annapoorna 👋
 
 ### Electronics & Communication Engineering Student | Aspiring Software Developer | AI Enthusiast
 
